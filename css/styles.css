@@ -283,8 +283,6 @@ header {
   background-color: var(--bc);
   margin-bottom: 30px;
 }
-.advantages-items .item-icon {
-}
 .advantages-items .item:not(:last-child) {
   margin-right: 30px;
 }
